@@ -19,7 +19,6 @@
 - hit the following command:
   - npm i
   - npm run report
-  -  
 
 ## Prerequisite
 - Node.js must be installed
@@ -34,5 +33,6 @@ https://docs.google.com/spreadsheets/d/1f6TFQRGh_9vZniZsl408WVKkKbeASfLI/edit?us
 https://docs.google.com/spreadsheets/d/16BgLQKLynjCV75B5SL4uWd1rqOnzmknu/edit?usp=share_link&ouid=116579029854073987408&rtpof=true&sd=true
 
 ## Output
-![report](https://user-images.githubusercontent.com/55635108/216899473-64abcfb3-65bc-432b-b7e9-e97c2f0beee0.PNG)
+![Report](https://user-images.githubusercontent.com/55635108/216920001-60663ee3-eb4c-46ee-b8da-a06a708515a8.PNG)
+
 
